@@ -77,7 +77,7 @@ params:
         title: Undergraduate Dissertation
         url: https://github.com/zborok/Dissertation-Code
       - image: pic02.jpg
-        subtitle: An Investigation of Worldwide Alcohol Consumption and IMDB Rated Movies
+        subtitle: An Investigation of Worldwide Alcohol Consumption and IMDB Critiqued Movies
         title: Movies and Consumption
         url: https://github.com/zborok/applied_stats_LBS/blob/master/Homework_1.Rmd
       - image: pic03.jpg
