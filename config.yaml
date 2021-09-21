@@ -73,37 +73,32 @@ params:
     enable: yes
     showcase:
       - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: An Attempt to Model Horse Races
         title: Undergraduate Dissertation
-        url: blogs/aliquam
+        url: https://github.com/zborok/Dissertation-Code
       - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
-        url: blogs/tempus
+        subtitle: An Investigation of Worldwide Alcohol Consumption and IMDB Rated Movies
+        title: Movies and Consumption
+        url: https://github.com/zborok/applied_stats_LBS/blob/master/Homework_1.Rmd
       - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        subtitle: An Analysis of the General Social Survey, Climate Change, and Biden's Approval Rate 
+        title: Climate Change, Social Survey, and Biden
+        url: https://github.com/zborok/applied_stats_LBS/blob/master/Homework_2.Rmd
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: An Analysis of a Range of Current Affairs
+        title: Pay Discrimination, Brexit, and COVID
+        url: https://github.com/zborok/applied_stats_LBS/blob/master/homework_3.Rmd
       - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
-        url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+        subtitle: A Mapping of Restaurants in London 
+        title: Capstone Project
+        url: https://github.com/zborok/Coursera_Capstone/tree/master
+    #  - image: pic06.jpg
+    #    subtitle: Feugiat Amet Tempus
+    #    title: Etiam
+    #    url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \r\n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \r\n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \r\n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\r\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
+    subtitle: The future is data
+    title: 
     url: blogs
