@@ -20,7 +20,7 @@ params:
         title: London Business School
     buttonClear: Clear
     buttonSend: Send message
-    email:
+    email: 
       - email: zborok.mam2022@london.edu
         title: Email
     enable: yes
