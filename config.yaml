@@ -67,8 +67,8 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+   # subtitle: By HTML5 Up
+    title: Borok
   tiles:
     enable: yes
     showcase:
@@ -99,6 +99,6 @@ params:
   two:
     buttonText: Get Started
     enable: yes
-    subtitle: The future is data
-    title: 
+  #  subtitle: 
+    title: The Future Is Data
     url: blogs
